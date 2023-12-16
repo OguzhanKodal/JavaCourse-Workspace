@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="inheritance.CorporateCustomer"/>
+    <fullyQualifiedTypeName name="inheritance.SendikaCustomer"/>
+    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritanceTwoLevel.LogManager"/>
+    <fullyQualifiedTypeName name="inheritanceTwoLevel.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritanceTwoLevel.DatabaseLogger"/>
+</qualifiedTypeNameHistroy>

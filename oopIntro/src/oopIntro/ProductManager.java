@@ -6,5 +6,3 @@ public class ProductManager {
 		System.out.println("Sepete eklendi: " + product.name);
 	}
 }
-
-
