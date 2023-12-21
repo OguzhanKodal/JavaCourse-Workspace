@@ -8,4 +8,5 @@
     <fullyQualifiedTypeName name="inheritanceTwoLevel.LogManager"/>
     <fullyQualifiedTypeName name="inheritanceTwoLevel.CustomerManager"/>
     <fullyQualifiedTypeName name="inheritanceTwoLevel.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
